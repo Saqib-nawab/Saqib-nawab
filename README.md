@@ -1,5 +1,5 @@
 # 💫 About Me:
-I specialize in creating intuitive user interfaces and scalable backends, thriving in agile environments with collaborative teams. My professional experience includes impactful projects like Van-life, Auto-Commerce, and Holidays.com, where I demonstrated my skills in responsive web application development. Leveraging tools like Next.js, Firebase, and Redux, I have consistently delivered high-performance solutions that enhance user engagement, streamline processes, and ensure client satisfaction.
+I specialize in creating intuitive user interfaces and scalable backends, thriving in agile environments with collaborative teams. My professional experience includes impactful projects like Van-life, Auto-Commerce, and Holidays.com, where I demonstrated my responsive web application development skills. Leveraging tools like Next.js, Firebase, and Redux, I have consistently delivered high-performance solutions that enhance user engagement, streamline processes, and ensure client satisfaction.
 
 
 ## 🌐 Socials:
